@@ -1,0 +1,36 @@
+  body{
+    background-color: #282c34;
+   
+
+  }
+    .formulario {
+    background-color: #5671a5;
+    text-align: center;
+    margin: 10px;
+    height: 60vh;
+    display:inline-table;
+ 
+    font-size: 30px ;
+    color: white;
+
+    }
+    
+ 
+ input {
+    border-radius: 5px;   
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+ }
+
+  
+  
+  button {
+    color: #ffffff;
+    background-color: rgb(15, 12, 214);
+    border-radius: 5px;
+    border: none;
+    
+  }
+  
+  
